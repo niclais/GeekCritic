@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Geek Kriti</title>
+    <title>Geekritic</title>
 
     <?php
 
@@ -15,6 +15,9 @@
 </head>
 
 <body>
+  <?php
+    include('includes/nav.php');
+    ?>
 <div class= "container">
 <div class="card col-md-3" style="">
   <img class="card-img-top" src=" cap" alt="Imagem de capa do card">
@@ -47,9 +50,7 @@
 
 </div>
 
-    <?php
-    include('includes/nav.php');
-    ?>
+    
 
     <?php
     include('includes/footer.php');
