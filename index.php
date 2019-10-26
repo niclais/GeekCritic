@@ -15,37 +15,122 @@
 </head>
 
 <body>
-<div class= "container">
-<div class="card col-md-3" style="">
-  <img class="card-img-top" src=" cap" alt="Imagem de capa do card">
+
+
+<div class="" >
+  <div class="row">
+  <div class="card rounded col-md-2 c" style="">
+  <img class="card-img-top" src="assets/images/a.png" alt="Imagem de capa do card">
   <div class="card-body">
     <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
   </div>
 </div>
 
-<div class="card col-md-3" style="">
-  <img class="card-img-top" src=".../100px180/?text=Image cap" alt="Imagem de capa do card">
+<div class="card rounded col-md-2 c" style="">
+  <img class="card-img-top" src="assets/images/c.png" alt="Imagem de capa do card">
   <div class="card-body">
     <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
   </div>
 </div>
 
-<div class="card col-md-3" style="">
-  <img class="card-img-top" src=".../100px180/?text=Image cap" alt="Imagem de capa do card">
+<div class="card rounded col-md-2 c" style="">
+  <img class="card-img-top" src="assets/images/edf.png" alt="Imagem de capa do card">
   <div class="card-body">
     <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
   </div>
 </div>
 
-<div class="card col-md-3" style="">
-  <img class="card-img-top" src=".../100px180/?text=Image cap" alt="Imagem de capa do card">
+<div class="card rounded col-md-2 c" style="">
+  <img class="card-img-top" src="assets/images/r.png" alt="Imagem de capa do card">
   <div class="card-body">
     <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
   </div>
 </div>
 
-
+<div class="card rounded col-md-2 c" style="">
+  <img class="card-img-top" src="assets/images/r.png" alt="Imagem de capa do card">
+  <div class="card-body">
+    <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+  </div>
 </div>
+  </div>
+
+  <div class="row">
+  <div class="card rounded col-md-2 c" style="">
+  <img class="card-img-top" src="assets/images/a.png" alt="Imagem de capa do card">
+  <div class="card-body">
+    <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+  </div>
+</div>
+
+<div class="card rounded col-md-2 c" style="">
+  <img class="card-img-top" src="assets/images/c.png" alt="Imagem de capa do card">
+  <div class="card-body">
+    <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+  </div>
+</div>
+
+<div class="card rounded col-md-2 c" style="">
+  <img class="card-img-top" src="assets/images/edf.png" alt="Imagem de capa do card">
+  <div class="card-body">
+    <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+  </div>
+</div>
+
+<div class="card rounded col-md-2 c" style="">
+  <img class="card-img-top" src="assets/images/r.png" alt="Imagem de capa do card">
+  <div class="card-body">
+    <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+  </div>
+</div>
+
+<div class="card rounded col-md-2 c" style="">
+  <img class="card-img-top" src="assets/images/r.png" alt="Imagem de capa do card">
+  <div class="card-body">
+    <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+  </div>
+</div>
+  </div>
+
+  <div class="row">
+  <div class="card rounded col-md-2 c" style="">
+  <img class="card-img-top" src="assets/images/a.png" alt="Imagem de capa do card">
+  <div class="card-body">
+    <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+  </div>
+</div>
+
+<div class="card rounded col-md-2 c" style="">
+  <img class="card-img-top" src="assets/images/c.png" alt="Imagem de capa do card">
+  <div class="card-body">
+    <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+  </div>
+</div>
+
+<div class="card rounded col-md-2 c" style="">
+  <img class="card-img-top" src="assets/images/edf.png" alt="Imagem de capa do card">
+  <div class="card-body">
+    <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+  </div>
+</div>
+
+<div class="card rounded col-md-2 c" style="">
+  <img class="card-img-top" src="assets/images/r.png" alt="Imagem de capa do card">
+  <div class="card-body">
+    <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+  </div>
+</div>
+
+<div class="card rounded col-md-2 c" style="">
+  <img class="card-img-top" src="assets/images/r.png" alt="Imagem de capa do card">
+  <div class="card-body">
+    <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+  </div>
+</div>
+  </div>
+</div>
+
+
 
     <?php
     include('includes/nav.php');

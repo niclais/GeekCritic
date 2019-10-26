@@ -1,0 +1,9 @@
+body {
+    max-width: 1900px;
+}
+
+.c {
+    margin: 32px;
+    width: 450px;
+    padding-right: auto;
+}
