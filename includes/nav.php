@@ -1,11 +1,11 @@
 <header>
-<nav class="navbar navbar-light bg-light">
-  <a class="navbar-brand" href="#">
+
+
+<ul class="nav nav-tabs navbar-light bg-light">
+<a class="navbar-brand" href="#">
     <img src="#" width="30" height="30" class="d-inline-block align-top" alt="">
     Geekritic
   </a>
-</nav>
-<ul class="nav nav-tabs">
   <li class="nav-item">
     <a class="nav-link active" href="#">Pagina Inicial</a>
   </li>
