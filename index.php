@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Geek Kriti</title>
+    <title>Geekritic</title>
 
     <?php
 
@@ -16,6 +16,13 @@
 
 <body>
 
+    <?php
+  <?php
+    include('includes/nav.php');
+    ?>
+
+
+    
 
 <div class="" >
   <div class="row">
@@ -132,9 +139,6 @@
 
 
 
-    <?php
-    include('includes/nav.php');
-    ?>
 
     <?php
     include('includes/footer.php');
