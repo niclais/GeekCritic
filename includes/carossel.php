@@ -14,16 +14,15 @@
                         </ol>
                         <div class="carousel-inner">
                             <div class="carousel-item carousel-geek active">
-                                <img class="class fundo-imagem" src="imagens1/Coringa-ModoMeu1111.png" alt="Primeiro Slide">
+                                <img class="class fundo-imagem" src="assets/images/Coringa-ModoMeu1111.png" alt="Primeiro Slide">
                                 
                             </div>
                             <div class="carousel-item carousel-geek">
-                                <img class="class fundo-imagem" src="imagens1/zom.png" alt="Segundo Slide">
+                                <img class="class fundo-imagem" src="assets/images/swe.png" alt="Segundo Slide">
                             </div>
 
-                            <div class="carousel-item" style=" height: 350px;
-    width:  850px;">
-                                <img class="class fundo-imagem" src="imagens1/sw.png" alt="terceiro slide">
+                            <div class="carousel-item" style="">
+                                <img class="class fundo-imagem" src="assets/images/starw.png" alt="terceiro slide">
                             </div>
 
 
