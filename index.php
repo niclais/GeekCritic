@@ -16,9 +16,12 @@
 
 <body>
 
-    <?php
   <?php
     include('includes/nav.php');
+    ?>
+
+<?php
+    include('includes/carossel.php');
     ?>
 
 
