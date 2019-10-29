@@ -46,7 +46,7 @@
         <div class=" c card">
           <img class="card-img-top" src="assets/images/c.png" alt="Imagem de capa do card">
 
-          <a href="#" class="btn btn-primary">joker</a>
+          <a href="#" class="btn btn-primary">Joker</a>
 
         </div>
       </div>
@@ -58,7 +58,7 @@
         <div class=" c card">
           <img class="card-img-top" src="assets/images/edf.png" alt="Imagem de capa do card">
 
-          <a href="#" class="btn btn-primary">the exterminator of future dark destiny</a>
+          <a href="#" class="btn btn-primary">The exterminator of future dark destiny</a>
 
         </div>
       </div>
@@ -87,7 +87,7 @@
       <div class=" c card">
         <img class="card-img-top" src="assets/images/hm1.png" alt="Imagem de capa do card">
 
-        <a href="#" class="btn btn-primary">spider man away from home</a>
+        <a href="#" class="btn btn-primary">Spider man away from home</a>
 
       </div>
     </div>
@@ -99,11 +99,18 @@
       <div class=" c card">
         <img class="card-img-top" src="assets/images/br.png" alt="Imagem de capa do card">
 
-        <a href="#" class="btn btn-primary">bohemian rhapsody</a>
+        <a href="#" class="btn btn-primary">Bohemian rhapsody</a>
 
       </div>
     </div>
   </div>
+
+
+  
+
+
+
+  
 
 
 
