@@ -1,7 +1,7 @@
 <header>
 
 
-<ul class="nav nav-tabs navbar-light bg-light">
+<nav class="nav nav-tabs navbar-light bg-light">
 <a class="navbar-brand" href="#">
     <img src="#" width="30" height="30" class="d-inline-block align-top" alt="">
     Geekritic
@@ -23,5 +23,5 @@
     </div>
   </li>
 
-</ul>
+</nav>
 </header>
