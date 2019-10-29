@@ -1,12 +1,11 @@
 body {
 
-   background-size: 80px;
-   background-color: black;
- 
-    background-image: (https://i.pinimg.com/564x/7f/c0/1c/7fc01c92836e49db60f6383435cf6c6e.jpg);
+    background-size: 80px;
+    background-color: black;
+
 }
 
-.border{ 
+.border {
 
     border-width: px;
     border-color: black;
@@ -15,6 +14,20 @@ body {
 
 .c {
     margin-top: 10px;
-    
+
     padding-right: auto;
+}
+
+a.nav-link{
+color:#007bff;
+
+
+}
+
+.color2{
+    color:#007bff;
+
+}
+.dropdown:hover>.dropdown-menu{
+    display: block;
 }
