@@ -6,15 +6,6 @@
 
 
 
-  <div class="menu">
-
-<button type="button " class=" btn2 btn btn-outline-primary" >HOME</button>
-<button type="button " class=" btn2 btn btn-outline-primary ">FILMES</button>
-<button type="button " class=" btn2 btn btn-outline-primary">TRAILER</button>
-<button type="button " class=" btn2 btn btn-outline-primary">NOTÍCIAS</button>
-
-
-
 
 
 
@@ -135,6 +126,7 @@
 
       <div class="col-sm-3">
 
+
         <div class=" c card">
           <img class="card-img-top" src="assets/images/r.png" alt="Imagem de capa do card">
 
@@ -145,6 +137,8 @@
 
 
 
+
+    
       <div class="col-sm-3 text-center">
 
         <div class=" c card">
@@ -156,37 +150,59 @@
       </div>
     </div>
 
-
-    <!-- Botão para acionar modal -->
-    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo">
-      Abrir modal de demonstração
-    </button>
-
-    <!-- Modal -->
-    <div class="modal fade" id="modalExemplo" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
       <div class="modal-dialog" role="document">
         <div class="modal-content">
           <div class="modal-header">
-            <h5 class="modal-title" id="exampleModalLabel">Título do modal</h5>
-            <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+            <h5 class="modal-title" id="exampleModalLongTitle">Login</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
               <span aria-hidden="true">&times;</span>
             </button>
           </div>
           <div class="modal-body">
-            COLA AQUI
+            <form class="px-4 py-3">
+              <div class="form-group">
+                <label for="exampleDropdownFormEmail1">Endereço de e-mail</label>
+                <input type="email" class="form-control" id="exampleDropdownFormEmail1" placeholder="email@example.com">
+              </div>
+              <div class="form-group">
+                <label for="exampleDropdownFormPassword1">Senha</label>
+                <input type="password" class="form-control" id="exampleDropdownFormPassword1" placeholder="Password">
+              </div>
+              <div class="form-group">
+                <div class="form-check">
+                  <input type="checkbox" class="form-check-input" id="dropdownCheck">
+                  <label class="form-check-label" for="dropdownCheck">
+                    Lembrar Senha
+                  </label>
+
+                </div>
+              </div>
+              <a class="dropdown-item" style="margin-left:-20px"  href="#">Cadastre-se</a>
+            </form>
+            <div>
+
+            </div>
+
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-            <button type="button" class="btn btn-primary">Salvar mudanças</button>
+            <button type="button" class="btn btn-primary">Entrar</button>
           </div>
+
+        </div>
+
         </div>
       </div>
     </div>
 
-
-
     <style>
         body {
+
+
+
+
+
 
 
             background-color: black;
@@ -238,5 +254,8 @@
     ?>
 
 </body>
+    <?php
+    include('includes/footer.php');
+    ?>
 
 </html>

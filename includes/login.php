@@ -14,7 +14,5 @@
   </form>
 </body>
 </html>
-<<<<<<< HEAD
-=======
 
->>>>>>> 6eaf22fccaa91d4a74694de364e92b3cf1cae1ec
+
