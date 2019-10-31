@@ -1,5 +1,5 @@
 <header>
-  <nav class="navbar-expand-lg navbar-nav">
+  <nav class="navbar-expand-lg navbar-nav navbar-light" style="background-color:#007bff">
     <a class="navbar-brand" href="#"><img src="#" width="30" height="30" class="d-inline-block align-top" alt=""> Geekritic </a>
     <ul class="navbar-nav mr-auto ">
       <li class="nav-item">

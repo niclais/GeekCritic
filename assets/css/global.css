@@ -34,3 +34,7 @@ color:#007bff;
 .dropdown:hover>.dropdown-menu{
     display: block;
 }
+
+.cor{
+    background-color: #007bff;
+}
