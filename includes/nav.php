@@ -1,5 +1,5 @@
 <header>
-  <nav class="navbar-expand-lg navbar-nav navbar-light" style="background-color:#007bff">
+  <nav class="navbar-expand-lg navbar-nav navbar-light" style="background-color:white">
     <a class="navbar-brand" href="#"><img src="#" width="30" height="30" class="d-inline-block align-top" alt=""> Geekritic </a>
     <ul class="navbar-nav mr-auto ">
       <li class="nav-item">
@@ -20,10 +20,11 @@
       </li>
     </ul>
     <div style="margin-right: 10px">
-  <li>
-    <a class="nav-link" href="#">Login</a>
-</li>
-</div>
+
+      <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalLong">
+        Login</button>
+
+    </div>
     <form class="form-inline my-2 my-lg-0">
       <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
       <button class="btn btn-outline- my-2 my-sm-0 color2" type="submit">Search</button>
