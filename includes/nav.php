@@ -21,7 +21,10 @@
     </ul>
     <div style="margin-right: 10px">
   <li>
-    <a class="nav-link" href="#">Login</a>
+  <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo">
+Login</button>
+
+    
 </li>
 </div>
     <form class="form-inline my-2 my-lg-0">

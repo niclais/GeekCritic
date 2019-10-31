@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 <?php
 session_start();
@@ -28,5 +27,3 @@ if($validUser) {
   </form>
 </body>
 </html>
-=======
->>>>>>> 5bfcd3bebe0a874780edd2061d96d737180bf9e8
