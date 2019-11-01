@@ -99,6 +99,9 @@ h1 {
     margin-top: 60px;
 }
 
+.dropdown-toggle::after{
 
+    content: none !important;
+}
 
 
