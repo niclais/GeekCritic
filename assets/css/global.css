@@ -1,0 +1,43 @@
+body {
+
+    background-size: 80px;
+    background-color: black;
+
+   background-size: 80px;
+   background-color: black;
+ 
+}
+
+.border {
+
+    border-width: px;
+    border-color: black;
+}
+
+
+.c {
+    margin-top: 10px;
+
+    padding-right: auto;
+}
+
+a.nav-link{
+color:#007bff;
+
+
+}
+
+.color2{
+    color:#007bff;
+
+}
+.dropdown:hover>.dropdown-menu{
+    display: block;
+}
+
+HEAD
+
+.cor{
+    background-color: #007bff;
+}
+

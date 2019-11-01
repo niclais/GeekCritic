@@ -1,17 +1,4 @@
 
-<?php
-session_start();
-$errorMsg = "Login ou senha errados.";
-$validUser = $_SESSION["login"] === true;
-if(isset($_POST["sub"])) {
-  $validUser = $_POST["username"] == "login" && $_POST["password"] == "senha";
-  if(!$validUser) $errorMsg = "Login ou senha errados.";
-  else $_SESSION["login"] = true;
-}
-if($validUser) {
-   header("Location:#"); die();
-}
-?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -27,3 +14,4 @@ if($validUser) {
   </form>
 </body>
 </html>
+
