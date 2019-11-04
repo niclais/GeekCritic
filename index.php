@@ -2,143 +2,246 @@
 <html>
 
 <head>
-    <title>Geekritic</title>
-
-    <?php
-
-    include('includes/header.php');
+  <title>Geekritic</title>
 
 
-    ?>
+
+
+
+
+
+  <?php
+
+  include('includes/header.php');
+
+
+  ?>
 
 
 </head>
 
 <body>
 
-  <?php
-    include('includes/nav.php');
-    ?>
 
-<?php
-    include('includes/carossel.php');
-    ?>
+
+
+  <?php
+  include('includes/nav.php');
+  ?>
+
+  <?php
+  include('includes/carossel.php');
+  ?>
+
+
+
+
+
+
+  <div class="container container-margin"> 
+
+    <div class="row">
+      <div class="col-sm-3">
+
+        <div class=" c card">
+          <img class="card-img-top" src="assets/images/a.png" alt="Imagem de capa do card">
+
+          <a href="#" class="btn btn-primary">Avengers: Endgame</a>
+
+        </div>
+      </div>
+
+
+
+
+
+      <div class="col-sm-3">
+
+        <div class=" c card">
+          <img class="card-img-top" src="assets/images/c.png" alt="Imagem de capa do card">
+
+          <a href="#" class="btn btn-primary">Joker</a>
+
+        </div>
+      </div>
+
+
+      <div class="col-sm-3">
+
+        <div class=" c card">
+          <img class="card-img-top" src="assets/images/hm1.png" alt="Imagem de capa do card">
+
+          <a href="#" class="btn btn-primary">Spider man away from home</a>
+
+        </div>
+      </div>
+
+
+
+
+      <div class="col-sm-3">
+
+        <div class=" c card">
+          <img class="card-img-top" src="assets/images/edf.png" alt="Imagem de capa do card">
+
+          <a href="#" class="btn btn-primary">The exterminator of future dark</a>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+  <CENTER>
+    <h1></h1>
+  </CENTER>
+  <div class="container confundo">
+
+    <div class="row">
+      <div class="col-sm-3">
+
+        <div class=" c card">
+          <img class="card-img-top" src="assets/images/r.png" alt="Imagem de capa do card">
+
+          <a href="#" class="btn btn-primary">Lion King</a>
+
+        </div>
+      </div>
+
+
+      <div class="col-sm-3 text-center" style="background-size:cover">
+
+        <div class=" c card">
+          <img class="card-img-top" src="assets/images/hm1.png" alt="Imagem de capa do card">
+
+          <a href="#" class="btn btn-primary">Spider man away from home</a>
+
+        </div>
+      </div>
+
+      <div class="col-sm-3">
+
+
+        <div class=" c card">
+          <img class="card-img-top" src="assets/images/r.png" alt="Imagem de capa do card">
+
+          <a href="#" class="btn btn-primary">Lion King</a>
+
+        </div>
+      </div>
+
+
 
 
     
+      <div class="col-sm-3 text-center">
 
-<div class="" >
-  <div class="row">
-  <div class="card rounded col-md-2 c" style="">
-  <img class="card-img-top" src="assets/images/a.png" alt="Imagem de capa do card">
-  <div class="card-body">
-    <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
-  </div>
-</div>
+        <div class=" c card">
+          <img class="card-img-top" src="assets/images/a.png" alt="Imagem de capa do card">
 
-<div class="card rounded col-md-2 c" style="">
-  <img class="card-img-top" src="assets/images/c.png" alt="Imagem de capa do card">
-  <div class="card-body">
-    <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
-  </div>
-</div>
+          <a href="#" class="btn btn-primary">Bohemian rhapsody</a>
 
-<div class="card rounded col-md-2 c" style="">
-  <img class="card-img-top" src="assets/images/edf.png" alt="Imagem de capa do card">
-  <div class="card-body">
-    <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
-  </div>
-</div>
+        </div>
+      </div>
+    </div>
 
-<div class="card rounded col-md-2 c" style="">
-  <img class="card-img-top" src="assets/images/r.png" alt="Imagem de capa do card">
-  <div class="card-body">
-    <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
-  </div>
-</div>
+    <div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLongTitle">Login</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <form class="px-4 py-3">
+              <div class="form-group">
+                <label for="exampleDropdownFormEmail1">Endereço de e-mail</label>
+                <input type="email" class="form-control" id="exampleDropdownFormEmail1" placeholder="email@example.com">
+              </div>
+              <div class="form-group">
+                <label for="exampleDropdownFormPassword1">Senha</label>
+                <input type="password" class="form-control" id="exampleDropdownFormPassword1" placeholder="Password">
+              </div>
+              <div class="form-group">
+                <div class="form-check">
+                  <input type="checkbox" class="form-check-input" id="dropdownCheck">
+                  <label class="form-check-label" for="dropdownCheck">
+                    Lembrar Senha
+                  </label>
 
-<div class="card rounded col-md-2 c" style="">
-  <img class="card-img-top" src="assets/images/r.png" alt="Imagem de capa do card">
-  <div class="card-body">
-    <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
-  </div>
-</div>
-  </div>
+                </div>
+              </div>
+              <a class="dropdown-item" style="margin-left:-20px"  href="includes/cadastro.php">Cadastre-se</a>
+            </form>
+            <div>
 
-  <div class="row">
-  <div class="card rounded col-md-2 c" style="">
-  <img class="card-img-top" src="assets/images/a.png" alt="Imagem de capa do card">
-  <div class="card-body">
-    <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
-  </div>
-</div>
+            </div>
 
-<div class="card rounded col-md-2 c" style="">
-  <img class="card-img-top" src="assets/images/c.png" alt="Imagem de capa do card">
-  <div class="card-body">
-    <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
-  </div>
-</div>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+            <button type="button" class="btn btn-primary">Entrar</button>
+          </div>
 
-<div class="card rounded col-md-2 c" style="">
-  <img class="card-img-top" src="assets/images/edf.png" alt="Imagem de capa do card">
-  <div class="card-body">
-    <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
-  </div>
-</div>
+        </div>
 
-<div class="card rounded col-md-2 c" style="">
-  <img class="card-img-top" src="assets/images/r.png" alt="Imagem de capa do card">
-  <div class="card-body">
-    <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
-  </div>
-</div>
+        </div>
+      </div>
+    </div>
 
-<div class="card rounded col-md-2 c" style="">
-  <img class="card-img-top" src="assets/images/r.png" alt="Imagem de capa do card">
-  <div class="card-body">
-    <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
-  </div>
-</div>
-  </div>
+    <style>
+        body {
 
-  <div class="row">
-  <div class="card rounded col-md-2 c" style="">
-  <img class="card-img-top" src="assets/images/a.png" alt="Imagem de capa do card">
-  <div class="card-body">
-    <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
-  </div>
-</div>
 
-<div class="card rounded col-md-2 c" style="">
-  <img class="card-img-top" src="assets/images/c.png" alt="Imagem de capa do card">
-  <div class="card-body">
-    <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
-  </div>
-</div>
 
-<div class="card rounded col-md-2 c" style="">
-  <img class="card-img-top" src="assets/images/edf.png" alt="Imagem de capa do card">
-  <div class="card-body">
-    <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
-  </div>
-</div>
 
-<div class="card rounded col-md-2 c" style="">
-  <img class="card-img-top" src="assets/images/r.png" alt="Imagem de capa do card">
-  <div class="card-body">
-    <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
-  </div>
-</div>
 
-<div class="card rounded col-md-2 c" style="">
-  <img class="card-img-top" src="assets/images/r.png" alt="Imagem de capa do card">
-  <div class="card-body">
-    <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
-  </div>
-</div>
-  </div>
-</div>
+
+
+            background-color: black;
+           
+
+
+        }
+
+        .h1,
+        h1 {
+
+            color: red;
+
+            background-color: black;
+
+        }
+
+       .btn2{
+           width:200px;
+           height: 40px;
+           font-size: 19px;
+
+       }
+       .btn3{
+
+           font-size: 35px;
+           background-color: black;
+           color:chartreuse;
+       }
+     
+
+    </style>
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -148,3 +251,8 @@
     ?>
 
 </body>
+    <?php
+    include('includes/footer.php');
+    ?>
+
+</html>

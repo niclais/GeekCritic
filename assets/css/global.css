@@ -1,9 +1,79 @@
 body {
-    max-width: 1900px;
+    background-size: 80px;
+    background-color: black;
+    background-size: 80px;
+    background-color: black;
+}
+
+.border {
+    border-width: px;
+    border-color: black;
 }
 
 .c {
     margin: 30px;
     width: 450px;
     padding-right: auto;
+}
+
+a.nav-link {
+    color: #007bff;
+}
+
+.color2 {
+    color: #007bff;
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+HEAD .cor {
+    background-color: #007bff;
+}
+
+menu {
+    background-color: black;
+}
+
+.h1,
+h1 {
+    color: red;
+    background-color: black;
+}
+
+.btn2 {
+    width: 470px;
+    height: 60px;
+    font-size: 25px;
+}
+
+.btn3 {
+    font-size: 35px;
+    background-color: black;
+    color: chartreuse;
+}
+
+.nav-menu {
+    background-color: black;
+}
+
+.nav-menu-brand {
+    color: white !important;
+}
+
+.nav-menu-item {
+    color: white;
+}
+
+.nav-menu-link {
+    color: white !important;
+}
+
+.container-margin {
+    margin-top: 60px;
+}
+
+.dropdown-toggle::after {
+    content: none !important;
 }
