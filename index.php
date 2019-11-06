@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 
@@ -218,9 +219,10 @@
         }
 
        .btn2{
-           width:200px;
+           width: 150px;
            height: 40px;
-           font-size: 19px;
+           font-size: 18px;
+           margin: 10px;
 
        }
        .btn3{
