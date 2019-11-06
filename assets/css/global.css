@@ -1,8 +1,8 @@
 body {
     background-size: 80px;
-    background-color: black;
+    background-color:white!important;
     background-size: 80px;
-    background-color: black;
+    background-color:
 }
 
 .border {
@@ -77,3 +77,4 @@ h1 {
 .dropdown-toggle::after {
     content: none !important;
 }
+
