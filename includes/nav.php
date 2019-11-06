@@ -35,7 +35,7 @@
     </ul>
     <div style="margin-right: 10px">
 
-      <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalLong">
+      <button type="button" style="background-color:transparent" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalLong">
         Login</button>
 
     </div>
