@@ -72,7 +72,7 @@
         <div class=" c card">
           <img class="card-img-top" src="assets/images/hm1.png" alt="Imagem de capa do card">
 
-          <a href="#" class="btn btn-primary">Spider man away from home</a>
+          <a href="#" class="btn btn-primary">Spider-Man away from home</a>
 
         </div>
       </div>
@@ -176,7 +176,7 @@
 
                 </div>
               </div>
-              <a class="dropdown-item" style="margin-left:-20px"  href="includes/cadastro.php">Cadastre-se</a>
+              <a class="dropdown-item" style="margin-left:-20px"  href="/cadastro.php">Cadastre-se</a>
             </form>
             <div>
 
