@@ -39,9 +39,9 @@
   ?>
 
 
-
-  <h1> lançamentos </h1>
-
+<div class="container text-center" style="margin-top:35px">
+  <h1> Lançamentos </h1>
+</div>
 
 
   <div class="container container-margin"> 
