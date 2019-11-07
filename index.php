@@ -187,7 +187,7 @@
 
                 </div>
               </div>
-              <a class="dropdown-item" style="margin-left:-20px"  href="/cadastro.php">Cadastre-se</a>
+              <a class="dropdown-item" style="margin-left:-20px"  href="includes/cadastro.php">Cadastre-se</a>
             </form>
             <div>
 
