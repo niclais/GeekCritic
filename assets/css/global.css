@@ -1,12 +1,11 @@
 body {
     background-size: 80px;
-    background-color:white!important;
+    background-color: white!important;
     background-size: 80px;
-    background-color:
 }
 
 .border {
-    border-width: px;
+    border-width: 1px;
     border-color: black;
 }
 
@@ -36,9 +35,7 @@ menu {
     background-color: black;
 }
 
-.h1,
 h1 {
-    color: red;
     background-color: black;
 }
 
@@ -76,5 +73,3 @@ h1 {
 
 .dropdown-toggle::after {
     content: none !important;
-}
-

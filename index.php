@@ -29,6 +29,10 @@
   <?php
   include('includes/nav.php');
   ?>
+    <?php
+  include('includes/cadastro.php');
+  ?>
+
 
   <?php
   include('includes/carossel.php');
@@ -36,6 +40,7 @@
 
 
 
+  <h1> lançamentos </h1>
 
 
 
@@ -215,14 +220,7 @@
 
         }
 
-        .h1,
-        h1 {
 
-            color: red;
-
-            background-color: black;
-
-        }
 
        .btn2{
            width: 150px;
