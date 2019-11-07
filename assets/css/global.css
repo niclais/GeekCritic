@@ -1,6 +1,6 @@
 body {
     background-size: 80px;
-    background-color: white!important;
+    background-color: black!important;
     background-size: 80px;
 }
 
@@ -38,6 +38,7 @@ menu {
 h1 {
     color: #007bff !important;
     background-color: black;
+    background-image: url(../images/estela.png);
 }
 
 .btn2 {
@@ -74,4 +75,8 @@ h1 {
 
 .dropdown-toggle::after {
     content: none !important;
+}
+
+.estrela{
+    background-image: url(../images/estela.png);
 }

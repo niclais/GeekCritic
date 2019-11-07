@@ -39,7 +39,7 @@
   ?>
 
 
-<div class="container text-center" style="margin-top:35px">
+<div class="text-center" style="margin-top:35px">
   <h1> Lançamentos </h1>
 </div>
 
