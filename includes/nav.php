@@ -1,6 +1,6 @@
 <header>
   <nav class="navbar-expand-lg navbar-nav navbar-light nav-menu">
-    <a class="navbar-brand nav-menu-brand" href="#"><img src="#" width="30" height="30" class="d-inline-block align-top" alt=""> Geekritic </a>
+    <a class="navbar-brand nav-menu-brand" href=""><img src="assets/images/geek12.png" width="200"  class="d-inline-block align-top" alt=""> </a>
     <ul class="navbar-nav mr-auto ">
       <li class="nav-item dropdown nav-menu-item">
         <a class="nav-link dropdown-toggle btn2 btn btn-outline-primary nav-menu-link" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">GÊNERO</a>
