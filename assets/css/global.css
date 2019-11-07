@@ -36,6 +36,7 @@ menu {
 }
 
 h1 {
+    color: #00fff3 !important;
     background-color: black;
 }
 
@@ -73,3 +74,4 @@ h1 {
 
 .dropdown-toggle::after {
     content: none !important;
+}
