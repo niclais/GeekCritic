@@ -75,3 +75,15 @@ h1 {
 .dropdown-toggle::after {
     content: none !important;
 }
+
+.borda {
+    min-width: 300px;
+    border-width: 2px;
+    border: solid darkgrey;
+    padding: 2px;
+    margin: 2px;
+}
+
+.invalid-feedback {
+    background-color: red;
+}
