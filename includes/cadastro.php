@@ -8,7 +8,7 @@
 
 <body>
 <form>
-  <div class="form-group row">
+  <div class="form-group row container">
     <label for="inputEmail3" class="col-sm-2 col-form-label">Endereço de Email</label>
     <div class="col-sm-10">
       <input type="email" class="form-control" id="inputEmail3" placeholder="Endereço de Email">
