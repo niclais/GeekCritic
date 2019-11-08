@@ -2,11 +2,11 @@ body {
     background-size: 80px;
     background-color:white!important;
     background-size: 80px;
-    background-color:
+    border:black;
 }
 
 .border {
-    border-width: px;
+
     border-color: black;
 }
 
@@ -17,11 +17,11 @@ body {
 }
 
 a.nav-link {
-    color: #007bff;
+    color: #90a4ae;
 }
 
 .color2 {
-    color: #007bff;
+    color: #90a4ae;
 }
 
 .dropdown:hover>.dropdown-menu {
@@ -29,18 +29,13 @@ a.nav-link {
 }
 
 HEAD .cor {
-    background-color: #007bff;
+    background-color: #90a4ae;
 }
 
 menu {
     background-color: black;
 }
 
-.h1,
-h1 {
-    color: red;
-    background-color: black;
-}
 
 .btn2 {
     width: 470px;
@@ -76,5 +71,24 @@ h1 {
 
 .dropdown-toggle::after {
     content: none !important;
+}
+
+
+.menu {
+
+    display: inline-block;
+    text-align: center;
+}
+
+.cards{
+
+    border: px solid rgb(255, 255, 255);
+
+
+}
+
+.btn-outline-primary{
+    border-color: #90a4ae;
+    color:#90a4ae;
 }
 
