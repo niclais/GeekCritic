@@ -1,12 +1,13 @@
 body {
     background-size: 80px;
-    background-color:white!important;
+    background-color: black!important;
     background-size: 80px;
     border:black;
 }
 
-.border {
 
+.border {
+    border-width: 1px;
     border-color: black;
 }
 
@@ -36,6 +37,11 @@ menu {
     background-color: black;
 }
 
+h1 {
+    color: #007bff !important;
+    background-color: black;
+    background-image: url(../images/estela.png);
+}
 
 .btn2 {
     width: 470px;
@@ -92,3 +98,6 @@ menu {
     color:#90a4ae;
 }
 
+.estrela{
+    background-image: url(../images/estela.png);
+}
