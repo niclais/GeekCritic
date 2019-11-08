@@ -29,9 +29,6 @@
   <?php
   include('includes/nav.php');
   ?>
-    <?php
-  include('includes/cadastro.php');
-  ?>
 
 
   <?php
