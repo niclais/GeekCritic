@@ -5,9 +5,8 @@ body {
     border:black;
 }
 
-
 .border {
-    border-width: 1px;
+
     border-color: black;
 }
 
@@ -37,11 +36,6 @@ menu {
     background-color: black;
 }
 
-h1 {
-    color: #007bff !important;
-    background-color: black;
-    background-image: url(../images/estela.png);
-}
 
 .btn2 {
     width: 470px;
@@ -79,26 +73,17 @@ h1 {
     content: none !important;
 }
 
-
 .menu {
-
     display: inline-block;
     text-align: center;
 }
 
-.cards{
-
+.cards {
     border: px solid rgb(255, 255, 255);
-
-
 }
 
-.btn-outline-primary{
+.btn-outline-primary {
     border-color: #90a4ae;
-    color:#90a4ae;
-}
-
-.estrela{
-    background-image: url(../images/estela.png);
+    color: #90a4ae;
 }
 
