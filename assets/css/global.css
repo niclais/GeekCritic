@@ -1,7 +1,8 @@
 body {
     background-size: 80px;
-    background-color: white!important;
+    background-color: black!important;
     background-size: 80px;
+    border: black;
 }
 
 .border {
@@ -16,11 +17,11 @@ body {
 }
 
 a.nav-link {
-    color: #007bff;
+    color: #90a4ae;
 }
 
 .color2 {
-    color: #007bff;
+    color: #90a4ae;
 }
 
 .dropdown:hover>.dropdown-menu {
@@ -28,7 +29,7 @@ a.nav-link {
 }
 
 HEAD .cor {
-    background-color: #007bff;
+    background-color: #90a4ae;
 }
 
 menu {
@@ -36,8 +37,9 @@ menu {
 }
 
 h1 {
-    color: #00fff3 !important;
+    color: #007bff !important;
     background-color: black;
+    background-image: url(../images/estela.png);
 }
 
 .btn2 {
@@ -76,14 +78,20 @@ h1 {
     content: none !important;
 }
 
-.borda {
-    min-width: 300px;
-    border-width: 2px;
-    border: solid darkgrey;
-    padding: 2px;
-    margin: 2px;
+.menu {
+    display: inline-block;
+    text-align: center;
 }
 
-.invalid-feedback {
-    background-color: red;
+.cards {
+    border: px solid rgb(255, 255, 255);
+}
+
+.btn-outline-primary {
+    border-color: #90a4ae;
+    color: #90a4ae;
+}
+
+.estrela {
+    background-image: url(../images/estela.png);
 }

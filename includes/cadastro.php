@@ -7,95 +7,42 @@
 </head>
 
 <body>
-
-
-<form class="needs-validation" novalidate>
-  <div class= "borda">
-  <div class="form-row">
-    <div class="col-md-4 mb-3">
-      <label for="validationCustom01">Primeiro nome</label>
-      <input type="text" class="form-control" id="validationCustom01" placeholder="Nome" required>
-      <div class="valid-feedback">
-        Tudo certo!
-      </div>
+<form>
+  <div class="form-group row">
+    <label for="inputEmail3" class="col-sm-2 col-form-label">Endereço de Email</label>
+    <div class="col-sm-10">
+      <input type="email" class="form-control" id="inputEmail3" placeholder="Endereço de Email">
     </div>
-    <div class="col-md-4 mb-3">
-      <label for="validationCustom02">Sobrenome</label>
-      <input type="text" class="form-control" id="validationCustom02" placeholder="Sobrenome" required>
-      <div class="valid-feedback">
-        Tudo certo!
-      </div>
+  </div>
+  <div class="form-group row">
+    <label for="inputPassword3" class="col-sm-2 col-form-label">Senha</label>
+    <div class="col-sm-10">
+      <input type="password" class="form-control" id="inputPassword3" placeholder="Senha">
     </div>
-    <div class="col-md-4 mb-3">
-      <label for="validationCustomUsername">Usuário</label>
-      <div class="input-group">
-        <div class="input-group-prepend">
-          <span class="input-group-text" id="inputGroupPrepend">@</span>
-        </div>
-        <input type="text" class="form-control" id="validationCustomUsername" placeholder="Usuário" aria-describedby="inputGroupPrepend" required>
-        <div class="invalid-feedback">
-          Por favor, escolha um nome de usuário.
-        </div>
+  </div>
+  <div class="form-group row">
+    <label for="inputPassword3" class="col-sm-2 col-form-label">Confirmar Senha</label>
+    <div class="col-sm-10">
+      <input type="password" class="form-control" id="inputPassword3" placeholder="Confirmar Senha">
+    </div>
+  </div>
+  <div class="form-group row">
+    <div class="col-sm-2"></div>
+    <div class="col-sm-10">
+      <div class="form-check">
+        <input class="form-check-input" type="checkbox" id="gridCheck1">
+        <label class="form-check-label" for="gridCheck1">
+          Salvar Senha
+        </label>
       </div>
     </div>
   </div>
-  <div class="form-row">
-    <div class="col-md-6 mb-3">
-      <label for="validationCustom03">Cidade</label>
-      <input type="text" class="form-control" id="validationCustom03" placeholder="Cidade" required>
-      <div class="invalid-feedback">
-        Por favor, informe uma cidade válida.
-      </div>
-    </div>
-    <div class="col-md-3 mb-3">
-      <label for="validationCustom04">Estado</label>
-      <input type="text" class="form-control" id="validationCustom04" placeholder="Estado" required>
-      <div class="invalid-feedback">
-        Por favor, informe um estado válido.
-      </div>
-    </div>
-    <div class="col-md-3 mb-3">
-      <label for="validationCustom05">CEP</label>
-      <input type="text" class="form-control" id="validationCustom05" placeholder="CEP" required>
-      <div class="invalid-feedback">
-        Por favor, informe um CEP válido.
-      </div>
+  <div class="form-group row">
+    <div class="col-sm-10">
+      <button type="submit" class="btn">Criar conta</button>
     </div>
   </div>
-  <div class="form-group">
-    <div class="form-check">
-      <input class="form-check-input" type="checkbox" value="" id="invalidCheck" required>
-      <label class="form-check-label" for="invalidCheck">
-        Concordo com os termos e condições
-      </label>
-      <div class="invalid-feedback">
-        Você deve concordar, antes de continuar.
-      </div>
-    </div>
-  </div>
-  <button class="btn btn-primary" type="submit">Enviar</button>
-</div>
-
 </form>
-
-<style>
-
-.borda {
-    min-width: 300px;
-    border-width: 2px;
-    border: solid darkgrey;
-    padding: 2px;
-    margin: 2px;
-}
-
-.form-row > .col, .form-row > [class*="col-"]{
-  padding-right: 5px;
-    padding-left: 5px;
-}
-
-
-</style>
-
 </body>
 
 </html>

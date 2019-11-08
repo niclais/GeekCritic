@@ -1,5 +1,11 @@
-<header>
+  
+  
+  <header>
+
   <nav class="navbar-expand-lg navbar-nav navbar-light nav-menu">
+    <a class="navbar-brand nav-menu-brand" href="#"><img src="#" width="30" height="30" class="d-inline-block align-top" alt=""> Geekritic </a>
+<header>
+  <nav class="navbar-expand-lg navbar-nav navbar-light nav-menu estrela">
     <a class="navbar-brand nav-menu-brand" href=""><img src="assets/images/geek12.png" width="200"  class="d-inline-block align-top" alt=""> </a>
     <ul class="navbar-nav mr-auto ">
       <li class="nav-item dropdown nav-menu-item">
@@ -21,7 +27,8 @@
       </li>
 
      
-      <li class="nav-item dropdown nav-menu-item">
+      <li class="nav-item dropdown nav-menu-item clearfix">
+      
         <a class="nav-link dropdown-toggle btn2 btn btn-outline-primary nav-menu-link" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">NOTÍCIAS</a>
        
           
@@ -29,7 +36,7 @@
         </div>
       </li>
       <li class="nav-item dropdown nav-menu-item">
-        <a class="nav-link dropdown-toggle btn2 btn btn-outline-primary nav-menu-link" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">SUPORTE</a>
+        <a class="nav-link dropdown-toggle btn2 btn btn-outline-primary nav-menu-link" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">EM BREVE</a>
       
       </li>
     </ul>
@@ -45,3 +52,6 @@
     </form>
   </nav>
 </header>
+
+  
+
