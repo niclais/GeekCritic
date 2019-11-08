@@ -1,11 +1,12 @@
 body {
     background-size: 80px;
-    background-color: black!important;
+    background-color:white!important;
     background-size: 80px;
+    border: black;
 }
 
 .border {
-    border-width: 1px;
+
     border-color: black;
 }
 
@@ -35,11 +36,6 @@ menu {
     background-color: black;
 }
 
-h1 {
-    color: #007bff !important;
-    background-color: black;
-    background-image: url(../images/estela.png);
-}
 
 .btn2 {
     width: 470px;
@@ -77,6 +73,23 @@ h1 {
     content: none !important;
 }
 
-.estrela{
+.menu {
+    display: inline-block;
+    text-align: center;
+}
+
+.cards {
+    border: px solid rgb(255, 255, 255);
+}
+
+.btn-outline-primary {
+    border-color: #90a4ae;
+    color: #90a4ae;
+}
+
+<<<<<<< HEAD
+.estrela {
     background-image: url(../images/estela.png);
 }
+=======
+>>>>>>> parent of 9ebcd07... Merge branch 'master' of https://github.com/niclais/GeekCritic
