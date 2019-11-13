@@ -35,7 +35,7 @@
   ?>
 
 
-<div class="text-center" style="margin-top:35px">
+<div class="text-center estrela" style="margin-top:35px">
   <h1> Lançamentos </h1>
 </div>
 
@@ -74,6 +74,11 @@
                     </figure>
                 </div>
 
+
+
+
+
+<!-- NAO APAGAR MODAL PELO AMOR DE DEUS-->
     <div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
       <div class="modal-dialog" role="document">
         <div class="modal-content">
@@ -102,7 +107,7 @@
 
                 </div>
               </div>
-              <a class="dropdown-item" style="margin-left:-20px"  href="/cadastro.php">Cadastre-se</a>
+              <a class="dropdown-item" style="margin-left:-20px"  href="cadastro/cadastro.php">Cadastre-se</a>
             </form>
             <div>
 
