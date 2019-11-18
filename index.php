@@ -150,7 +150,12 @@
                         </figcaption>            
                     </figure>
                 </div>
+                <?php
 
+include('includes/rodape.php');
+
+
+?>
 
 
 
