@@ -43,7 +43,7 @@
                     <figure class="effect-dexter">
                         <img src="assets/images/edf.png" alt="img19"/>
                         <figcaption>
-                            <h2>Strange <span>Dexter</span></h2>
+                            <h2>O Exterminador <b>do Futuro</b></h2>
                             <p>Dexter had his own strange way. You could watch him training ants.</p>
                             <a href="#">View more</a>
                         </figcaption>            
