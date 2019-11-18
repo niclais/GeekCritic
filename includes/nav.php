@@ -24,14 +24,14 @@
      
       <li class="nav-item dropdown nav-menu-item clearfix">
       
-        <a style="color: #90a4ae;" class="nav-link dropdown-toggle btn2 btn btn-outline-primary nav-menu-link" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">NOTÍCIAS</a>
+        <a style="color: #90a4ae;" class="nav-link dropdown-toggle btn2 btn btn-outline-primary nav-menu-link" data-toggle="dropdown" href="noticia.php" role="button" aria-haspopup="true" aria-expanded="false">NOTÍCIAS</a>
        
           
          
         </div>
       </li>
       <li class="nav-item dropdown nav-menu-item">
-        <a style="color: #90a4ae;" class="nav-link dropdown-toggle btn2 btn btn-outline-primary nav-menu-link" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">EM BREVE</a>
+        <a style="color: #90a4ae;" class="nav-link dropdown-toggle btn2 btn btn-outline-primary nav-menu-link" data-toggle="dropdown" href="contato.php" role="button" aria-haspopup="true" aria-expanded="false">CONTATO</a>
       
       </li>
     </ul>
