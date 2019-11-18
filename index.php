@@ -10,7 +10,6 @@
 
 
 
-
   <?php
 
   include('includes/header.php');
@@ -35,12 +34,90 @@
   ?>
 
 
-<div class="text-center" style="margin-top:35px">
-  <h1> Lançamentos </h1>
+<div class="text-center nome" style="margin-top:35px">
+  <h1> Últimos Lançamentos </h1>
 </div>
 
-                <div class="grid">
-                    <figure class="effect-dexter">
+
+                <div class="grid row">
+                    <figure class="effect-dexter col-md-3">
+                        <img src="assets/images/edf.png" alt="img19"/>
+                        <figcaption>
+                            <h2 class="text-center">O Exterminador <b>do Futuro</b></h2>
+                            <p>Gênero:Ação, Ficção Científica</p>
+                            
+                            <a href="EF.PHP">View more</a>
+                        </figcaption>            
+                    </figure>
+                    <figure class="effect-dexter col-md-3">
+                        <img src="assets/images/rl.png" alt="img12"/>
+                        <figcaption>
+                            <h2 class="text-center">O Rei <b>Leão</b></h2>
+                            <p>Dexter had his own strange way. You could watch him training ants.</p>
+                            <a href="#">View more</a>
+                        </figcaption>            
+                    </figure>
+                    <figure class="effect-dexter col-md-3">
+                        <img src="assets/images/br1.png" alt="img12"/>
+                        <figcaption>
+                            <h2 class="text-center">Bohemian <b>Rhapsody</b></h2>
+                            <p>Dexter had his own strange way. You could watch him training ants.</p>
+                            <a href="#">View more</a>
+                        </figcaption>            
+                    </figure>
+                    <figure class="effect-dexter col-md-3">
+                        <img src="assets/images/cr.png" alt="img12"/>
+                        <figcaption>
+                            <h2 class="text-center"><b>Coringa</b></h2>
+                            <p>Dexter had his own strange way. You could watch him training ants.</p>
+                            <a href="#">View more</a>
+                        </figcaption>            
+                    </figure>
+                </div>
+
+
+                <div class="grid row">
+                    <figure class="effect-dexter col-md-3">
+                        <img src="assets/images/vs.png" alt="img19"/>
+                        <figcaption>
+                            <h2 class="text-center">Vingadores <b>Ultimato</b></h2>
+                            <p>Dexter had his own strange way. You could watch him training ants.</p>
+                            <a href="#">View more</a>
+                        </figcaption>            
+                    </figure>
+                    <figure class="effect-dexter col-md-3">
+                        <img src="assets/images/ts.png" alt="img12"/>
+                        <figcaption>
+                            <h2 class="text-center">Toy <b>Story 4</b></h2>
+                            <p>Dexter had his own strange way. You could watch him training ants.</p>
+                            <a href="#">View more</a>
+                        </figcaption>            
+                    </figure>
+                    <figure class="effect-dexter col-md-3">
+                        <img src="assets/images/it.png" alt="img12"/>
+                        <figcaption>
+                            <h2 class="text-center">It: Capítulo <b>Dois</b></h2>
+                            <p>Dexter had his own strange way. You could watch him training ants.</p>
+                          <a href="#">View more</a>
+                        </figcaption>            
+                    </figure>
+                    <figure class="effect-dexter col-md-3">
+                        <img src="assets/images/cm.png" alt="img12"/>
+                        <figcaption>
+                            <h2 class="text-center">Capitã <b>Marvel</b></h2>
+                            <p>Dexter had his own strange way. You could watch him training ants.</p>
+                            <a href="#">View more</a>
+                        </figcaption>            
+                    </figure>
+                </div>
+
+                <div class="text-center nome" style="margin-top:35px">
+                <h1> Mais Vistos </h1>
+                </div>
+
+
+                <div class="grid row">
+                    <figure class="effect-dexter col-md-3">
                         <img src="assets/images/edf.png" alt="img19"/>
                         <figcaption>
                             <h2>O Exterminador <b>do Futuro</b></h2>
@@ -48,7 +125,15 @@
                             <a href="#">View more</a>
                         </figcaption>            
                     </figure>
-                    <figure class="effect-dexter">
+                    <figure class="effect-dexter col-md-3">
+                        <img src="assets/images/it.png" alt="img12"/>
+                        <figcaption>
+                            <h2>Strange <span>Dexter</span></h2>
+                            <p>Dexter had his own strange way. You could watch him training ants.</p>
+                            <a href="#">View more</a>
+                        </figcaption>            
+                    </figure>
+                    <figure class="effect-dexter col-md-3">
                         <img src="https://tympanus.net/Development/HoverEffectIdeas/img/12.jpg" alt="img12"/>
                         <figcaption>
                             <h2>Strange <span>Dexter</span></h2>
@@ -56,15 +141,7 @@
                             <a href="#">View more</a>
                         </figcaption>            
                     </figure>
-                    <figure class="effect-dexter">
-                        <img src="https://tympanus.net/Development/HoverEffectIdeas/img/12.jpg" alt="img12"/>
-                        <figcaption>
-                            <h2>Strange <span>Dexter</span></h2>
-                            <p>Dexter had his own strange way. You could watch him training ants.</p>
-                            <a href="#">View more</a>
-                        </figcaption>            
-                    </figure>
-                    <figure class="effect-dexter">
+                    <figure class="effect-dexter col-md-3">
                         <img src="https://tympanus.net/Development/HoverEffectIdeas/img/12.jpg" alt="img12"/>
                         <figcaption>
                             <h2>Strange <span>Dexter</span></h2>
@@ -74,6 +151,11 @@
                     </figure>
                 </div>
 
+
+
+
+
+<!-- NAO APAGAR MODAL PELO AMOR DE DEUS-->
     <div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
       <div class="modal-dialog" role="document">
         <div class="modal-content">
@@ -102,7 +184,7 @@
 
                 </div>
               </div>
-              <a class="dropdown-item" style="margin-left:-20px"  href="/cadastro.php">Cadastre-se</a>
+              <a class="dropdown-item" style="margin-left:-20px"  href="cadastro/cadastro.php">Cadastre-se</a>
             </form>
             <div>
 
@@ -138,7 +220,7 @@
         .h1,
         h1 {
 
-            color: red;
+            color:#90a4ae;
 
             background-color: black;
 
@@ -255,7 +337,7 @@ figure.effect-dexter {
 
 figure.effect-dexter img {
 	-webkit-transition: opacity 0.35s;
-	transition: opacity 0.35s;
+  transition: opacity 0.35s;
 }
 
 figure.effect-dexter:hover img {
@@ -274,7 +356,8 @@ figure.effect-dexter figcaption::after {
 	-webkit-transition: -webkit-transform 0.35s;
 	transition: transform 0.35s;
 	-webkit-transform: translate3d(0,-100%,0);
-	transform: translate3d(0,-100%,0);
+  transform: translate3d(0,-100%,0);
+  
 }
 
 figure.effect-dexter:hover figcaption::after {
@@ -303,6 +386,11 @@ figure.effect-dexter:hover p {
 	opacity: 1;
 	-webkit-transform: translate3d(0,0,0);
 	transform: translate3d(0,0,0);
+}
+
+.col-md-3{
+  padding-right: 0 !important;
+  padding-left: 0 !important;
 }
 
 

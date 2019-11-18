@@ -2,38 +2,35 @@
 <html>
 
 <head>
-    
-<?php
-
-  include('includes/header.php');
-
-
-  ?>
+  <meta charset=utf-8>
+  <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+  <title>Cadastro</title>
 </head>
 
 <body>
-    <div class="dropdown-menu">
-        <form class="px-4 py-3">
-            <div class="form-group">
-                <label for="exampleDropdownFormEmail1">Endereço de email</label>
-                <input type="email" class="form-control" id="exampleDropdownFormEmail1" placeholder="email@exemplo.com">
-            </div>
-            <div class="form-group">
-                <label for="exampleDropdownFormPassword1">Senha</label>
-                <input type="password" class="form-control" id="exampleDropdownFormPassword1" placeholder="Senha">
-            </div>
-            <div class="form-check">
-                <input type="checkbox" class="form-check-input" id="dropdownCheck">
-                <label class="form-check-label" for="dropdownCheck">
-                    Remember me
-                </label>
-            </div>
-            <button type="submit" class="btn btn-primary">Entrar</button>
-        </form>
-        <div class="dropdown-divider"></div>
-        <a class="dropdown-item" href="#">Cadastre-se</a>
-        <a class="dropdown-item" href="#">Esqueceu a senha?</a>
-    </div>
+
+  <div class="container">
+    <form class="dropdown-menu p-4">
+      <div class="form-group">
+        <label for="exampleDropdownFormEmail2">Email</label>
+        <input type="email" class="form-control" id="exampleDropdownFormEmail2" placeholder="Email">
+
+      </div>
+      <div class="form-group">
+        <label for="exampleDropdownFormPassword2">Senha</label>
+        <input type="password" class="form-control" id="exampleDropdownFormPassword2" placeholder="Senha">
+      </div>
+      <div class="form-group">
+        <label for="exampleDropdownFormPassword2"> Repetir Senha</label>
+        <input type="password" class="form-control" id="exampleDropdownFormPassword2" placeholder="Repetir Senha">
+      </div>
+      <div class="form-group">
+
+      </div>
+      <button type="submit" class="btn btn-primary">Confirmar</button>
+    </form>
+  </div>
+
 </body>
 
 </html>

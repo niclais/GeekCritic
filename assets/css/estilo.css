@@ -1,12 +1,10 @@
 body {
     background-size: 1920px;
     background-color: black!important;
-
-    border:black;
+    border: black;
 }
 
 .border {
-
     border-color: black;
 }
 
@@ -14,10 +12,6 @@ body {
     margin: 30px;
     width: 450px;
     padding-right: auto;
-}
-
-a.nav-link {
-    color: #90a4ae;
 }
 
 .color2 {
@@ -36,7 +30,6 @@ menu {
     background-color: black;
 }
 
-
 .btn2 {
     width: 470px;
     height: 60px;
@@ -54,7 +47,7 @@ menu {
 }
 
 .nav-menu-brand {
-    color: white !important;
+    color: white;
 }
 
 .nav-menu-item {
@@ -62,7 +55,7 @@ menu {
 }
 
 .nav-menu-link {
-    color: white !important;
+    background-color: black;
 }
 
 .container-margin {
@@ -82,8 +75,15 @@ menu {
     border: px solid rgb(255, 255, 255);
 }
 
-.btn-outline-primary {
-    border-color: #90a4ae;
+.img,
+img {
+    width: 100%;
+}
+
+.a1 {
     color: #90a4ae;
 }
 
+.btn-outline-primary {
+    border-color: #90a4ae;
+}
