@@ -87,3 +87,9 @@ img {
 .btn-outline-primary {
     border-color: #90a4ae;
 }
+
+.footer{
+    background:#90a4ae;
+    color: whitesmoke;
+     height: 400px;
+}
