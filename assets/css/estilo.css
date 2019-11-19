@@ -88,8 +88,12 @@ img {
     border-color: #90a4ae;
 }
 
-.footer{
-    background:#90a4ae;
+.footer {
+    background: #90a4ae;
     color: whitesmoke;
-     height: 400px;
+    height: 400px;
+}
+
+.desc {
+    background-color: #90a4ae;
 }
