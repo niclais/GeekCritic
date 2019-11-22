@@ -330,8 +330,13 @@ menu {
       padding-left: 0 !important;
     }
 
+    .btn-outline-primary {
+        color: white !important;
+    background-color: black;
+        }
+
     .btn-outline-primary:hover {
-    color: #fff;
-    background-color: #68838B!important;
+    color: black !important;
+    background-color: white;
     border-color: #7A8B8B!important; 
     }
