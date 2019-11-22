@@ -48,18 +48,17 @@
             </div>
 
             <div class="desc-item">
-              <span class="light">Lançamento: </span>
-              <a>31 de outubro de 2019</a>
+              <span class="light">Direção: </span>
+              <a>Tim Miller</a>
             </div>
 
             <div class="desc-item">
-            <span class="light">Lançamento: </span>
-            <a>31 de outubro de 2019</a>
+            <span class="light">Gêneros: </span>
+            <a><a href="acao.php">Ação</a>, Ficção científica</a>
             </div>
 
-            
-            <span class="light">Lançamento: </span>
-            <a>31 de outubro de 2019</a>
+            <span class="light">Nacionalidade: </span>
+            <a>EUA</a>
           </div>
         </div>
 
