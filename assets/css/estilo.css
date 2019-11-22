@@ -88,3 +88,8 @@ img {
     border-color: #90a4ae;
 }
 
+
+.badge-dark {
+    color: #fff;
+    background-color:transparent !important;
+}

@@ -188,7 +188,7 @@
 
               </div>
             </div>
-            <a class="dropdown-item" style="margin-left:-20px" href="cadastro/cadastro.php">Cadastre-se</a>
+            <a class="dropdown-item" style="margin-left:-20px" href="cadastro.php">Cadastre-se</a>
           </form>
           <div>
 
@@ -207,6 +207,10 @@
   </div>
 
   <style>
+    .badge-dark {
+    color: #fff;
+    background-color:transparent !important;
+}
     .footer {
       background:#90a4ae ;
       color: whitesmoke;

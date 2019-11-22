@@ -158,7 +158,12 @@
 
 
 
+<?php
 
+  include('includes/rodape.php');
+
+
+  ?>
 
     <?php
     include('includes/footer.php');
