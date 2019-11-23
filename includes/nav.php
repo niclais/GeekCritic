@@ -3,7 +3,7 @@
   <header>
 
   <nav class="navbar-expand-lg navbar-nav navbar-light nav-menu">
-    <a class="navbar-brand nav-menu-brand" href="#" style="color:white"><img src="#" width="30" height="30" class="d-inline-block align-top" alt=""> Geekritic </a>
+    <a class="navbar-brand nav-menu-brand buscar" href="#" style="color:white"><img src="#" width="30" height="30" class="d-inline-block align-top" alt=""> Geekritic </a>
     <ul class="navbar-nav mr-auto ">
       <li class="nav-item dropdown nav-menu-item">
         <a class="nav-link dropdown-toggle btn2 btn btn-outline-primary nav-menu-link" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">GÊNERO</a>
@@ -54,7 +54,7 @@
 
 
 .buscar{
-        margin-: 20px!important;
+  margin-top: 8px!important;;
     }
 
 
