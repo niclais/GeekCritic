@@ -31,34 +31,40 @@
 
 
 
-  <div class="container-fluid desc">
+  <div class="desc">
     <div class="row">
-      <div class="desc2 rounded col-md-4">
-        <img src="assets/images/2442891.jpg">
+      <div class="desc-2 col-md-4">
+        <img src="assets/images/2442891.jpg" class="filme">
       </div>
 
       </dv>
       <div class="row">
-        <div class="desc2 rounded col-md-8">
-          <div class="desc">
+        <div class="desc-2 col-md-8">
+          <div class="desc-item">
             <div class="desc-item">
-              <h1 class="">O Exterminador do Futuro</h1>
+              <h2 class="">O Exterminador do Futuro: Destino Sombrio</h2>
               <span class="light">Lançamento: </span>
               <a>31 de outubro de 2019</a>
             </div>
 
-            <div class="desc-item">
+            <div class="">
               <span class="light">Direção: </span>
               <a>Tim Miller</a>
             </div>
 
-            <div class="desc-item">
-            <span class="light">Gêneros: </span>
-            <a><a href="acao.php">Ação</a>, Ficção científica</a>
+            <div class="">
+              <span class="light">Gêneros: </span>
+              <a><a href="acao.php">Ação</a>, Ficção científica</a>
             </div>
 
-            <span class="light">Nacionalidade: </span>
-            <a>EUA</a>
+            <div class="">
+              <span class="light">Nacionalidade: </span>
+              <a>EUA</a>
+            </div>
+
+            <div style="text-align: center;">
+              <a> Na sexta aventura da saga Exterminador do Futuro, Arnold Schwarzenegger interpreta novamente o papel icônico de T-800, enquanto Linda Hamilton encarna mais uma vez Sarah Connor.</a>
+            </div>
           </div>
         </div>
 
@@ -150,14 +156,14 @@
 
 
 
-<?php
+  <?php
 
   include('includes/rodape.php');
 
 
   ?>
 
-   
+
 </body>
 
 </html>
