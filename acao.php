@@ -260,12 +260,7 @@
 
 
 
-<?php
 
-  include('includes/rodape.php');
-
-
-  ?>
 
 
   <?php
