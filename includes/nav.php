@@ -3,7 +3,7 @@
   <header>
 
   <nav class="navbar-expand-lg navbar-nav navbar-light nav-menu">
-    <a class="navbar-brand nav-menu-brand" href="#"><img src="#" width="30" height="30" class="d-inline-block align-top" alt=""> Geekritic </a>
+    <a class="navbar-brand nav-menu-brand" href="#" style="color:white"><img src="#" width="30" height="30" class="d-inline-block align-top" alt=""> Geekritic </a>
     <ul class="navbar-nav mr-auto ">
       <li class="nav-item dropdown nav-menu-item">
         <a style="color: #90a4ae;" class="nav-link dropdown-toggle btn2 btn btn-outline-primary nav-menu-link" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">GÊNERO</a>
@@ -41,7 +41,7 @@
         Login</button>
 
     </div>
-    <form class="form-inline my-2 my-lg-0">
+    <form class="form-inline my-2 my-lg-0 buscar">
       <input class="form-control mr-sm-2" type="search" placeholder="Buscar" aria-label="Search">
       <button class="btn btn-outline- my-2 my-sm-0 color2" type="submit">Buscar</button>
     </form>
@@ -50,3 +50,12 @@
 
   
 
+<style>
+
+
+.buscar{
+        margin-: 20px!important;
+    }
+
+
+</style>
