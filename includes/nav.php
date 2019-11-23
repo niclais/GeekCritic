@@ -1,10 +1,12 @@
- <header>
+  
+  
+  <header>
 
   <nav class="navbar-expand-lg navbar-nav navbar-light nav-menu">
     <a class="navbar-brand nav-menu-brand" href="#"><img src="#" width="30" height="30" class="d-inline-block align-top" alt=""> Geekritic </a>
     <ul class="navbar-nav mr-auto ">
       <li class="nav-item dropdown nav-menu-item">
-        <a style="color: #90a4ae;" class="nav-link dropdown-toggle  nav-menu-link" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">GÊNERO</a>
+        <a style="color: #90a4ae;" class="nav-link dropdown-toggle btn2 btn btn-outline-primary nav-menu-link" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">GÊNERO</a>
         <div class="dropdown-menu">
           <a class="dropdown-item" href="acao.php">Ação</a>
           <a class="dropdown-item" href="#">Animação</a>
@@ -22,17 +24,16 @@
      
       <li class="nav-item dropdown nav-menu-item clearfix">
       
-        <a style="color: #90a4ae;" class="nav-link dropdown-toggle  nav-menu-link" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">NOTÍCIAS</a>
+        <a style="color: #90a4ae;" class="nav-link dropdown-toggle btn2 btn btn-outline-primary nav-menu-link" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">NOTÍCIAS</a>
        
           
          
         </div>
       </li>
       <li class="nav-item dropdown nav-menu-item">
-        <a style="color: #90a4ae;" class="nav-link dropdown-toggle  nav-menu-link" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">EM BREVE</a>
+        <a style="color: #90a4ae;" class="nav-link dropdown-toggle btn2 btn btn-outline-primary nav-menu-link" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">EM BREVE</a>
       
       </li>
-
     </ul>
     <div style="margin-right: 10px">
 
@@ -46,7 +47,6 @@
     </form>
   </nav>
 </header>
-
 
   
 
