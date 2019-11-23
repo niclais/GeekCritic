@@ -43,7 +43,7 @@
       <img src="assets/images/edf.png" alt="img19" />
       <figcaption>
         <h2 class="text-center">O Exterminador <b>do Futuro</b></h2>
-        <p>Gênero:Ação, Ficção Científica</p>
+        <p>O Exterminador do Futuro: Destino Sombrio está em exibição nos cinemas.</p>
 
         <a href="EF.PHP">View more</a>
       </figcaption>
@@ -52,7 +52,7 @@
       <img src="assets/images/rl.png" alt="img12" />
       <figcaption>
         <h2 class="text-center">O Rei <b>Leão</b></h2>
-        <p>Dexter had his own strange way. You could watch him training ants.</p>
+        <p>Novo filme do Rei Leão estreia nos EUA em meio a críticas...</p>
         <a href="#">View more</a>
       </figcaption>
     </figure>
@@ -60,7 +60,7 @@
       <img src="assets/images/br1.png" alt="img12" />
       <figcaption>
         <h2 class="text-center">Bohemian <b>Rhapsody</b></h2>
-        <p>Dexter had his own strange way. You could watch him training ants.</p>
+        <p>é um filme de drama biográfico britânico-estadunidense de 2018 sobre Freddie Mercury, vocalista da banda de rock britânica Queen.</p>
         <a href="#">View more</a>
       </figcaption>
     </figure>
@@ -68,7 +68,7 @@
       <img src="assets/images/cr.png" alt="img12" />
       <figcaption>
         <h2 class="text-center"><b>Coringa</b></h2>
-        <p>Dexter had his own strange way. You could watch him training ants.</p>
+        <p>Em filme, Joaquin Phoenix retrata a origem sombria do vilão Coringa.</p>
         <a href="#">View more</a>
       </figcaption>
     </figure>
@@ -80,7 +80,7 @@
       <img src="assets/images/vs.png" alt="img19" />
       <figcaption>
         <h2 class="text-center">Vingadores <b>Ultimato</b></h2>
-        <p>Dexter had his own strange way. You could watch him training ants.</p>
+        <p>Vingadores: Ultimato já está disponível em DVD, Blu-ray, 3D, 4K e download digital.</p>
         <a href="#">View more</a>
       </figcaption>
     </figure>
@@ -88,7 +88,7 @@
       <img src="assets/images/ts.png" alt="img12" />
       <figcaption>
         <h2 class="text-center">Toy <b>Story 4</b></h2>
-        <p>Dexter had his own strange way. You could watch him training ants.</p>
+        <p>Toy Story 4 prova que, sim, ainda há carisma e fôlego de sobra para a franquia.</p>
         <a href="#">View more</a>
       </figcaption>
     </figure>
@@ -96,7 +96,7 @@
       <img src="assets/images/it.png" alt="img12" />
       <figcaption>
         <h2 class="text-center">It: Capítulo <b>Dois</b></h2>
-        <p>Dexter had his own strange way. You could watch him training ants.</p>
+        <p>It – Capítulo 2 dá uma aula de como fazer trailers.</p>
         <a href="#">View more</a>
       </figcaption>
     </figure>
@@ -104,7 +104,7 @@
       <img src="assets/images/cm.png" alt="img12" />
       <figcaption>
         <h2 class="text-center">Capitã <b>Marvel</b></h2>
-        <p>Dexter had his own strange way. You could watch him training ants.</p>
+        <p>Capitã Marvel – foi devidamente apresentada no filme solo de 2019.</p>
         <a href="#">View more</a>
       </figcaption>
     </figure>
@@ -120,7 +120,7 @@
       <img src="assets/images/edf.png" alt="img19" />
       <figcaption>
         <h2>O Exterminador <b>do Futuro</b></h2>
-        <p>Dexter had his own strange way. You could watch him training ants.</p>
+        <p>O Exterminador do Futuro: Destino Sombrio está em exibição nos cinemas.</p>
         <a href="#">View more</a>
       </figcaption>
     </figure>
@@ -128,7 +128,7 @@
       <img src="assets/images/it.png" alt="img12" />
       <figcaption>
         <h2>Strange <span>Dexter</span></h2>
-        <p>Dexter had his own strange way. You could watch him training ants.</p>
+        <p>It – Capítulo 2 dá uma aula de como fazer trailers.</p>
         <a href="#">View more</a>
       </figcaption>
     </figure>
@@ -206,7 +206,7 @@
   </div>
   </div>
 
-  
+
 </body>
 
 
