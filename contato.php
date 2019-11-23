@@ -1,147 +1,145 @@
-body {
-    background-size: 1920px;
-    background-color: black!important;
-    border: black;
-}
+<!DOCTYPE html>
+<html>
 
-.border {
-    border-color: black;
-}
+<head>
+  <title>Geekritic</title>
 
-.c {
-    margin: 30px;
-    width: 450px;
-    padding-right: auto;
-}
 
-.color2 {
-    color: #90a4ae;
-}
 
-.dropdown:hover>.dropdown-menu {
-    display: block;
-}
 
-HEAD .cor {
-    background-color: #90a4ae;
-}
 
-menu {
-    background-color: black;
+
+  <?php
+
+  include('includes/header.php');
+
+
+  ?>
+
+
+</head>
+
+<body>
+
+
+
+
+  <?php
+  include('includes/nav.php');
+  ?>
+
     
-}
-
-.btn2 {
-    width: 470px;
-    height: 60px;
-    font-size: 25px;
-}
-
-.btn3 {
-    font-size: 35px;
-    background-color: black;
-    color: chartreuse;
-}
-
-.nav-menu {
-    background-color: black;
-    
-}
-
-.nav-menu-brand {
-    color: white;
-}
-
-.nav-menu-item {
-    color: white;
-    
-}
-
-.nav-menu-link {
-    background-color: black;
-    
-}
-
-.container-margin {
-    margin-top: 60px;
-}
-
-.dropdown-toggle::after {
-    content: none !important;
-}
-
-.menu {
-    display: inline-block;
-    text-align: center;
-}
-
-.cards {
-    border: px solid rgb(255, 255, 255);
-}
-
-.img {
-    width: 100%;
-}
-
-.a1 {
-    color: #90a4ae;
-}
-
-.btn-outline-primary {
-    border-color: #90a4ae;
-}
 
 
 
-.badge-dark {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLongTitle">Login</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <form class="px-4 py-3">
+              <div class="form-group">
+                <label for="exampleDropdownFormEmail1">Endereço de e-mail</label>
+                <input type="email" class="form-control" id="exampleDropdownFormEmail1" placeholder="email@example.com">
+              </div>
+              <div class="form-group">
+                <label for="exampleDropdownFormPassword1">Senha</label>
+                <input type="password" class="form-control" id="exampleDropdownFormPassword1" placeholder="Password">
+              </div>
+              <div class="form-group">
+                <div class="form-check">
+                  <input type="checkbox" class="form-check-input" id="dropdownCheck">
+                  <label class="form-check-label" for="dropdownCheck">
+                    Lembrar Senha
+                  </label>
+
+                </div>
+              </div>
+              <a class="dropdown-item" style="margin-left:-20px"  href="/cadastro.php">Cadastre-se</a>
+            </form>
+            <div>
+
+            </div>
+
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+            <button type="button" class="btn btn-primary">Entrar</button>
+          </div>
+
+        </div>
+
+        </div>
+      </div>
+    </div>
+
+
+
+    <style>
+    .badge-dark {
     color: #fff;
     background-color:transparent !important;
 }
+    .footer {
+      background:#90a4ae ;
+      color: whitesmoke;
+      height: 400px;
+      position: relative;
+    }
 
-.desc {
-    background-color: #90a4ae;
-}
+    .footer .footer-content{
+border: 1px solid #00008B;
+height: 350px;
 
 
+    }
 
-.badge-dark {
-    color: #fff;
-    background-color:transparent !important;
-}
-
-.footer {
-    background: #C5E1A5;
-    color: black;
-    height: 250px;
-    position: relative;
-    padding-top: 15px;
-    border-top: solid 10px #7CB342;
-  
-}
-
-.footer .footer-bottom {
-    width: 100%;
-    background: black;
-    color: whitesmoke;
-    height: 40px;
-    text-align: center;
-    position: absolute;
-    bottom: 0px;
-    left: 0px;
-    padding-top: 5px;
-}
-
-.footer-col{
-    border: solid 1px black;
-    border-radius: 10px;
-    padding: 5px;
-}
-
-.icone{
-    width: 16px !important;
-    margin-right: 5px;
-    margin-bottom: 5px;
-}
+    .footer .footer-bottom {
+      width: 100%;
+      background: #7A8B8B;
+      color: whitesmoke;
+      height: 50px;
+      text-align: center;
+      position: absolute;
+      bottom: 0px;
+      left: 0px;
+      padding-top: 20px;
+    }
 
     body {
 
@@ -334,13 +332,30 @@ menu {
       padding-left: 0 !important;
     }
 
-    .btn-outline-primary {
-        color: white !important;
-    background-color: black;
-        }
-
     .btn-outline-primary:hover {
-    color: black !important;
-    background-color: white;
+    color: #fff;
+    background-color: #68838B!important;
     border-color: #7A8B8B!important; 
     }
+  </style>
+
+
+
+
+
+
+
+<?php
+
+  include('includes/rodape.php');
+
+
+  ?>
+
+    <?php
+    include('includes/footer.php');
+    ?>
+
+</body>
+
+</html>
