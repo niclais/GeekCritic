@@ -9,36 +9,36 @@
 </head>
 
 <body>
-<div class="container">
-  <div class="text-center shadow-lg mb-5 bg-white rounded mx-auto" style="width:230px; margin-top:100px">
-    <div class="row">
+  <div class="container">
+    <div class="text-center shadow-lg mb-5 bg-white rounded mx-auto" style="width:300px; margin-top:100px">
+      <div class="row">
 
-      <form class="p-4">
-        <div class="col">
-          <div class="form-group">
-            <label for="exampleDropdownFormEmail2">Email</label>
-            <input type="email" class="form-control" id="exampleDropdownFormEmail2" placeholder="Email">
+        <form class="p-5">
+          <div class="col">
+            <div class="form-group">
+              <label for="exampleDropdownFormEmail2">Email</label>
+              <input type="email" class="form-control" id="exampleDropdownFormEmail2" placeholder="Email">
+            </div>
           </div>
-        </div>
 
-        <div class="col">
-          <div class="form-group">
-            <label for="exampleDropdownFormPassword2">Senha</label>
-            <input type="password" class="form-control" id="exampleDropdownFormPassword2" placeholder="Senha">
+          <div class="col">
+            <div class="form-group">
+              <label for="exampleDropdownFormPassword2">Senha</label>
+              <input type="password" class="form-control" id="exampleDropdownFormPassword2" placeholder="Senha">
+            </div>
           </div>
-        </div>
 
-        <div class="col">
-          <div class="form-group">
-            <label for="exampleDropdownFormPassword3"> Repetir Senha</label>
-            <input type="password" class="form-control" id="exampleDropdownFormPassword2" placeholder="Repetir Senha">
+          <div class="col">
+            <div class="form-group">
+              <label for="exampleDropdownFormPassword3"> Repetir Senha</label>
+              <input type="password" class="form-control" id="exampleDropdownFormPassword2" placeholder="Repetir Senha">
+            </div>
           </div>
-        </div>
-    
-    <button type="submit" class="btn btn-primary">Confirmar</button>
-    </form>
-</div>
-  </div>
+          <a href="index.php" class="btn btn-primary">Confirmar
+          </a>
+        </form>
+      </div>
+    </div>
   </div>
 
 
