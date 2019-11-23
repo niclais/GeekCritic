@@ -6,7 +6,7 @@
     <a class="navbar-brand nav-menu-brand" href="#" style="color:white"><img src="#" width="30" height="30" class="d-inline-block align-top" alt=""> Geekritic </a>
     <ul class="navbar-nav mr-auto ">
       <li class="nav-item dropdown nav-menu-item">
-        <a class="nav-link dropdown-toggle btn2 btn btn-outline-primary nav-menu-link" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">GÊNERO</a>
+        <a style="color: #90a4ae;" class="nav-link dropdown-toggle btn2 btn btn-outline-primary nav-menu-link" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">GÊNERO</a>
         <div class="dropdown-menu">
           <a class="dropdown-item" href="acao.php">Ação</a>
           <a class="dropdown-item" href="#">Animação</a>
@@ -24,20 +24,20 @@
      
       <li class="nav-item dropdown nav-menu-item clearfix">
       
-        <a class="nav-link dropdown-toggle btn2 btn btn-outline-primary nav-menu-link" data-toggle="dropdown" href="noticia.php" role="button" aria-haspopup="true" aria-expanded="false">NOTÍCIAS</a>
+        <a style="color: #90a4ae;" class="nav-link dropdown-toggle btn2 btn btn-outline-primary nav-menu-link" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">NOTÍCIAS</a>
        
           
          
         </div>
       </li>
       <li class="nav-item dropdown nav-menu-item">
-        <a class="nav-link dropdown-toggle btn2 btn btn-outline-primary nav-menu-link" data-toggle="dropdown" href="contato.php" role="button" aria-haspopup="true" aria-expanded="false">CONTATO</a>
+        <a style="color: #90a4ae;" class="nav-link dropdown-toggle btn2 btn btn-outline-primary nav-menu-link" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">EM BREVE</a>
       
       </li>
     </ul>
     <div style="margin-right: 10px">
 
-      <button type="button" style="border-color: #90a4ae; background-color:transparent; margin-top:10px" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalLong">
+      <button type="button" style="color: #90a4ae; border-color: #90a4ae; background-color:transparent; margin-top:10px" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalLong">
         Login</button>
 
     </div>
