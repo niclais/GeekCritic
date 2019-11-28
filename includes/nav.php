@@ -76,7 +76,9 @@
 
  <div style="margin-right: 70px; margin-top:25px"> 
 
-  <button type="button" style="border-color: #90a4ae; background-color:transparent; margin-top:6px" class="btn btn-primary noborda btn-primary1:hover .btn-primary1:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle" data-toggle="modal" data-target="#exampleModalLong">
+  <button type="button" style="border-color: #90a4ae; background-color:transparent; margin-top:6px" class="btn btn-primary noborda btn-primary1:hover .btn-primary1:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle 
+   
+" data-toggle="modal" data-target="#exampleModalLong">
     Login</button>
 
 </div>
