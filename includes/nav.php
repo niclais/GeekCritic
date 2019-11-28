@@ -4,7 +4,7 @@
     <a class="navbar-brand nav-menu-brand" href="#"><img src="https:s" width="250" height="100" class="d-inline-block align-top" alt=""></a>
     <ul class="navbar-nav mr-auto" style="padding-top:35px">
       <li class="nav-item dropdown nav-menu-item">
-        <a class="nav-link" style="margin-right:15px" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"><b>HOME</b></a>
+        <a class="nav-link" style="margin-right:15px" href="index.php" ><b>HOME</b></a>
 
         </div>
       </li>
@@ -76,10 +76,8 @@
 
  <div style="margin-right: 70px; margin-top:25px"> 
 
-  <button type="button" style="border-color: #90a4ae; background-color:transparent; margin-top:6px" class="btn btn-primary noborda btn-primary1:hover .btn-primary1:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
-    color: #fff;
-    background-color: #0062cc;
-    border-color: #005cbf;
+  <button type="button" style="border-color: #90a4ae; background-color:transparent; margin-top:6px" class="btn btn-primary noborda btn-primary1:hover .btn-primary1:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle 
+   
 " data-toggle="modal" data-target="#exampleModalLong">
     Login</button>
 
