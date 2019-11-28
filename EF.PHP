@@ -63,14 +63,18 @@
 
           <div style="text-align: center;">
 
-          <h2> Sinopse </h2>
+            <h2> Sinopse </h2>
             <a> Na sexta aventura da saga Exterminador do Futuro, Arnold Schwarzenegger interpreta novamente o papel icônico de T-800, enquanto Linda Hamilton encarna mais uma vez Sarah Connor.</a>
           </div>
-          <video src="https://www.youtube.com/watch?v=tt9FdmkwsZ4"></video>
+
+          <iframe width="700" height="430" src="https://www.youtube.com/embed/XZXufNKqJJI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
         </div>
       </div>
     </div>
   </div>
+
+
 
 
 
