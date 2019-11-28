@@ -33,25 +33,26 @@
               <input type="email" class="form-control" id="exampleDropdownFormEmail2" placeholder="Email">
             </div>
           </div>
+        </div>
 
-          <div class="col">
-            <div class="form-group">
-              <label for="exampleDropdownFormPassword2">Senha</label>
-              <input type="password" class="form-control" id="exampleDropdownFormPassword2" placeholder="Senha">
-            </div>
+        <div class="col">
+          <div class="form-group">
+            <label for="exampleDropdownFormPassword2">Senha</label>
+            <input type="password" class="form-control" id="exampleDropdownFormPassword2" placeholder="Senha">
           </div>
+        </div>
 
-          <div class="col">
-            <div class="form-group">
-              <label for="exampleDropdownFormPassword3"> Repetir Senha</label>
-              <input type="password" class="form-control" id="exampleDropdownFormPassword2" placeholder="Repetir Senha">
-            </div>
+        <div class="col">
+          <div class="form-group">
+            <label for="exampleDropdownFormPassword3"> Repetir Senha</label>
+            <input type="password" class="form-control" id="exampleDropdownFormPassword2" placeholder="Repetir Senha">
           </div>
-          <a href="index.php" class="btn btn-primary">Confirmar
-          </a>
-        </form>
-      </div>
-    </div>
+        </div>
+    
+    <button type="submit" class="btn btn-primary">Confirmar</button>
+    </form>
+</div>
+  </div>
   </div>
   <?php
 
