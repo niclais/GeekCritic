@@ -428,11 +428,6 @@ figure.effect-dexter:hover p {
 }
 
 
-    </style>
-
-
-
-    }
 
     .h1,
     h1 {
