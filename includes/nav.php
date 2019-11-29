@@ -16,7 +16,7 @@
 
         <div class="dropdown-menu">
           <a class="dropdown-item" href="#">TODOS</a>
-          <a class="dropdown-item" href="#">ACÃO</a>
+          <a class="dropdown-item" href="acao.php">ACÃO</a>
           <a class="dropdown-item" href="#">AVENTURA</a>
           <a class="dropdown-item" href="#">ANIMAÇÃO</a>
           <a class="dropdown-item" href="#">COMÉDIA</a>
