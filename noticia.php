@@ -3,64 +3,18 @@
 
 <head>
   <title>Geekritic</title>
-
-
-
-
-
-
+  
   <?php
 
   include('includes/header.php');
-
-
   ?>
-
-
 </head>
 
 <body>
 
-
-
-
   <?php
   include('includes/nav.php');
   ?>
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     <div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
       <div class="modal-dialog" role="document">
@@ -108,21 +62,9 @@
       </div>
     </div>
 
-
-
     <style>
         body {
-
-
-
-
-
-
-
             background-color: black;
-           
-
-
         }
 
         .h1,
@@ -148,17 +90,7 @@
            color:chartreuse;
        }
 
-
-
      </style>
-
-
-
-
-
-
-
-
 
     <?php
     include('includes/footer.php');
